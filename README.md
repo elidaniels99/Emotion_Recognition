@@ -29,6 +29,7 @@ Streamlit App:
 1. Image Emotion Recognition:
 
 Upload an image to detect and display emotions expressed in human faces. The app uses deep learning to recognize emotions like happiness, sadness, suprise, anger, disgust, neutral.
+
 2. Live Webcam Emotion Detection:
 
 Experience real-time emotion detection through your webcam. Toggle the webcam feed, and see your own emotions overlaid on the live video
