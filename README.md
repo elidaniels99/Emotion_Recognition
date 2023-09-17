@@ -1,4 +1,4 @@
-# Image_Sentiment_Classification
+# Emotion Recognition using Deep Learning
 
 Background:
 Emotion recognition is a critical component of human-machine interaction in various applications, including virtual assistants, healthcare, entertainment, and customer service. Accurate detection of human emotions from visual data, such as facial expressions, is essential for enhancing the quality and effectiveness of these interactions.
