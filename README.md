@@ -33,3 +33,6 @@ Upload an image to detect and display emotions expressed in human faces. The app
 2. Live Webcam Emotion Detection:
 
 Experience real-time emotion detection through your webcam. Toggle the webcam feed, and see your own emotions overlaid on the live video
+
+Conclusion
+In conclusion, the model's performance metrics, with a training accuracy of 84.18% and a validation accuracy of 83.11%, suggest that it has been effective in recognizing and classifying emotions from images. However, it's worth noting that despite the overall success, distinguishing between anger and disgust remains a challenging task. These emotions, characterized by subtle facial expressions, often exhibit similarities that can be difficult to discern accurately. Continued refinement and fine-tuning of the model, as well as the incorporation of more extensive and diverse datasets, may further enhance its ability to differentiate between these nuanced emotions in the future. Nevertheless, the promising results obtained thus far indicate the potential of this model in various real-world applications, particularly in understanding human emotions from visual cues.
