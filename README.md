@@ -6,13 +6,14 @@ Emotion recognition is a critical component of human-machine interaction in vari
 Objective:
 The objective of this project is to develop a robust emotion recognition system that can accurately classify human emotions. The system should be capable of detecting a range of emotions, such as happiness, sadness, anger, surprise, fear, disgust, and neutrality.
 
-Tasks:
+Data:
+The evaluation of these two datasets served as a comprehensive testbed for the emotion classification model. CK+ offered controlled lab conditions and a well-structured dataset, allowing for rigorous training and validation. On the other hand, FER2013 introduced the model to a broader range of facial expressions, simulating real-world scenarios. This duality in dataset evaluation ensured that the model could perform well not only in idealized conditions but also in the diverse and unpredictable contexts that it might encounter in practical applications.
 
+Tasks:
 Data Preprocessing: Load and preprocess the training and testing data. Convert pixel values to a suitable numerical format, normalize them, and reshape them to the original image dimensions.
 Label Encoding: Encode the emotion labels as integers or one-hot vectors, depending on the model requirements.
 Model Selection: Choose an appropriate deep learning model architecture for emotion recognition. You can start with a simple CNN-based model and explore more advanced architectures like VGG-16 for fine-tuning.
 Model Training: Train the selected model on the training data while monitoring key metrics such as loss and accuracy. Utilize techniques like data augmentation and dropout to enhance model performance.
-Model Evaluation: Evaluate the trained model's performance on the test dataset. Measure accuracy, precision, recall, and F1-score to assess the model's ability to correctly classify emotions.
 Fine-Tuning: If the initial model performance is not satisfactory, fine-tune hyperparameters, model architecture, or use transfer learning techniques to improve results.
 Deployment: Once a satisfactory model is achieved, prepare it for deployment in real-world applications, where it can interact with users and recognize their emotions from facial expressions.
 Deliverables:
